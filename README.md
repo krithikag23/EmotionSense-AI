@@ -32,14 +32,14 @@ The model is trained on the **`dair-ai/emotion`** dataset from Hugging Face, whi
 ---
 
 ## 📂 Dataset
-Dataset: **dair-ai/emotion**
-**from datasets import load_dataset**
-**dataset = load_dataset("dair-ai/emotion")**
+-Dataset: **dair-ai/emotion**
+-**from datasets import load_dataset**
+-**dataset = load_dataset("dair-ai/emotion")**
 
 ---
 ## 🎯 Example Output
 
-**Text: I am very happy and excited today!**
-**Predicted Emotion: joy**
+-**Text: I am very happy and excited today!**
+-**Predicted Emotion: joy**
 
 
